@@ -24,7 +24,7 @@ Hi, I'm Polina Zhos - a student of FAMCS BSU. Now I combine university education
 </pre>
 
 ## 🌐 Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pzhos/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://github.com/pzhos) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:polinazhos@gmail.com)
 
 
