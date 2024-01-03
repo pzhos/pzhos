@@ -39,4 +39,4 @@ Hi, I'm Polina Zhos - a student of FAMCS BSU. Now I combine university education
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📸 CV
-### Soon you can find my CV in this repository!
+### You can find my CV in this repository!
